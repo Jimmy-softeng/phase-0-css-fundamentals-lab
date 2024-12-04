@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+header h1{
+   text-align: center;
+}
+img {
+   margin:10px 120px 0px;
+}
+
+ nav {
+  padding:0px 10px;
+  text-align: center;
+
+}
+ nav a {
+  padding:0px 10px;
+  background: gray;
+  
+}
+figcaption {
+   font-size: 15px;
+   text-align: center;
+}
+#featured-property p {
+   width: 800px;
+   text-align: center;
+   line-height: 1.2em;
+   margin: 0px 50px 10px 200px;
+}
+#details div{
+  float: left;
+  width: 25%;
+  text-align: center;
+  background: red;
+}
+
